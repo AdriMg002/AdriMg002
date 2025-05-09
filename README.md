@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy un desarrollador apasionado por la tecnología
 
-<!--
-**AdriMg002/AdriMg002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un programador con experiencia en el desarrollo de aplicaciones web y de escritorio. Me especializo en:
 
-Here are some ideas to get you started:
+- ☕ **Java** para desarrollo backend y aplicaciones robustas
+- 🌐 **HTML**, **CSS** y **JavaScript** para crear interfaces web modernas y responsivas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+- Java SE / Java EE
+- HTML5, CSS3, JavaScript (ES6+)
+- Git & GitHub
+- VS Code / IntelliJ IDEA
+
+## 📈 En constante aprendizaje
+Siempre estoy explorando nuevas herramientas, frameworks y buenas prácticas para escribir código limpio, eficiente y mantenible.
+
+## 📫 Contacto
+¿Quieres colaborar o simplemente saludar? Puedes encontrarme en:
+
+- [LinkedIn](https://www.linkedin.com)
+- [Portafolio](https://tu-portafolio.com)
+
+---
+
+> "El código es como el humor: cuando tienes que explicarlo, no es tan bueno." – Cory House
